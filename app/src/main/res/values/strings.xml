@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">UT_3_ConvensorDivisas</string>
+    <string name="edt">Introduzca una Cantidad en €</string>
+    <string name="tv1">Conversion de divisa</string>
+    <string name="vip">Cliente VIP</string>
+    <string name="bt">CONVERTIR</string>
+    <string name="tv2">Cantidad en nueva divisa</string>
+
+    <string-array name="divisas">
+        <item>DOLLAR</item>
+        <item>YEN</item>
+        <item>WONES</item>
+        <item>RUBLOS</item>
+        <item>CANADIAN DOLLAR</item>
+    </string-array>
 </resources>
