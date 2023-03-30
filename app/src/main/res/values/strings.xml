@@ -7,10 +7,15 @@
     <string name="tv2">Cantidad en nueva divisa</string>
 
     <string-array name="divisas">
-        <item>DOLLAR</item>
-        <item>YEN</item>
-        <item>WONES</item>
-        <item>RUBLOS</item>
-        <item>CANADIAN DOLLAR</item>
+        <item>USD</item>
+        <item>GBP</item>
+        <item>CAD</item>
+        <item>AUD</item>
+        <item>JPY</item>
+        <item>INR</item>
+        <item>NZD</item>
+        <item>CHF</item>
+        <item>ZAR</item>
+        <item>RUB</item>
     </string-array>
 </resources>
